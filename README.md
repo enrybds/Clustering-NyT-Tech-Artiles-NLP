@@ -6,13 +6,12 @@ The main objective of this project is to differentiate topics in a set of articl
 * Python
 * Jupyter
 
-### Python Libraries 🗃️
+## Python Libraries 🗃️
 
 * Numpy
 * Pandas
 * Matpltlib
 * Scikit-learn
-* Keras
 * re
 * Nltk
 * WorkCloud
