@@ -45,7 +45,7 @@ Afterwards, we used different techniques to try to obtain the optimal number of 
 
 ![image](https://user-images.githubusercontent.com/105368099/183402780-4b620a12-7e7d-4791-b782-8195ad929937.png)
 
-## Conlusions 🙇‍♀️
+## Conclusions 🙇‍♀️
 
 * All the news are on very similar topics, therefore difficulties arise when performing clustering. Even so, our models are capable of isolating topics that are out of the most common news.
 
