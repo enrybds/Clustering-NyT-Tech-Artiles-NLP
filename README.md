@@ -10,7 +10,7 @@ The main objective of this project is to differentiate topics in a set of articl
 
 * Numpy
 * Pandas
-* Matpltlib
+* Matpoltlib
 * Scikit-learn
 * re
 * Nltk
